@@ -1,4 +1,5 @@
-//LINK - https://leetcode.com/problems/sort-colors/submissions/
+//Ques LINK - https://leetcode.com/problems/sort-colors/submissions/
+//link for more optimal approach - https://java2blog.com/sort-array-of-0s-1s-and-2s/   tc - 0(N)
 
 class Solution {
     
@@ -11,7 +12,7 @@ class Solution {
         loop through array replace with number of 0s , 1s ,2s
         
     
-    
+        Tc - 0(2N)
     */
     
     public void sortColors(int[] nums) {
