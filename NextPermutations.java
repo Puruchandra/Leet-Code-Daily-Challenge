@@ -1,5 +1,5 @@
-//LINK - https://leetcode.com/problems/next-permutation/submissions/
-//Explanation about question - https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order
+// LINK - https://leetcode.com/problems/next-permutation/submissions/
+// Explanation about question - https://en.wikipedia.org/wiki/Permutation#Generation_in_lexicographic_order
 
 class Solution {
     
