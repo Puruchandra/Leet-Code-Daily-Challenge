@@ -5,7 +5,7 @@ class Solution {
 }
 
 /*  
-    Brute Force Solution
+    Brute Force Solution -
     T.C - 0(n^2) - Would be TLE for big numbers
       
     class Solution {
