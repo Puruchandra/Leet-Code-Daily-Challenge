@@ -1,4 +1,4 @@
-//LINK - https://leetcode.com/problems/merge-intervals
+//LINK --- https://leetcode.com/problems/merge-intervals
 
 
 class Solution {
