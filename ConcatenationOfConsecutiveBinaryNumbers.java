@@ -1,4 +1,4 @@
-// Link - https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
+// Link --- https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 
 class Solution {
     public int concatenatedBinary(int n) {
