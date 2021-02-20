@@ -4,7 +4,11 @@
 class Solution {
 
         /*
-
+        
+        
+        
+        
+        
             Define one pointers in each array i, j at 0th index
             compare the value of both pointers
             if i <= j, the value at i is already at right place
