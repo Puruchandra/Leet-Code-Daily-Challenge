@@ -9,10 +9,6 @@
 
 class Solution {
     
-    
-
-    
-    
     public int maxSubArray(int[] nums) {
         
         int maxGlobal = nums[0];
