@@ -12,6 +12,7 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
+	    
         int k = lists.length;
 	if (k < 1)
 		return null;
