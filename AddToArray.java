@@ -9,7 +9,6 @@ class Solution {
         
         int n = A.length;
         int carry = K;
-        
         while(--n >= 0 || carry > 0){
             if (n >= 0)
                 carry+= A[n];
